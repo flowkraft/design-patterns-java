@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
+     <parent>
         <groupId>me.trasca.virgil</groupId>
-        <artifactId>design-patterns-builder</artifactId>
+        <artifactId>design-patterns-java</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>gof-creational-abstract-factory</artifactId>
+    <artifactId>gof-creational-builder</artifactId>
 
     <dependencies>
         <dependency>

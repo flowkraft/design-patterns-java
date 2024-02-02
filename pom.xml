@@ -10,6 +10,7 @@
 
     <modules>
         <module>gof-creational-abstract-factory</module>
+        <module>gof-creational-builder</module>
     </modules>
 
     <dependencyManagement>
